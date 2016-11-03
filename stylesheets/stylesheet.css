@@ -1,0 +1,57 @@
+body {
+  font-family: sans-serif;
+  align-content: center;
+  margin: 0 auto;
+
+}
+header {
+  background-color: black;
+  padding: 0;
+  margin: 0;
+}
+
+header h1 {
+  color: white;
+  font-size: 50px;
+  padding-top: 2em;
+}
+
+header p {
+  color: grey;
+  font-size: 27px;
+}
+
+nav {
+  background-color: grey;
+  margin: 0;
+  padding: 0;
+  font-size: 35px;
+}
+
+main a {
+  color: red;
+}
+
+article {
+  float:left;
+  
+}
+
+aside {
+  float: right;
+  border-style: solid;
+  border-color: black;
+}
+
+/* footer */
+footer  {
+  background-color: black;
+  
+}
+
+footer p {
+  color: white;
+}
+footer a {
+  color: red;
+}
